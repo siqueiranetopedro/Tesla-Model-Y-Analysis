@@ -163,10 +163,6 @@ jupyter notebook Tesla_Model_Y_Analysis.ipynb
 - GitHub: [@siqueiranetopedro](https://github.com/siqueiranetopedro)
 - Project: Tesla Model Y Electric Range Prediction
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
