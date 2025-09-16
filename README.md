@@ -107,7 +107,7 @@ Tesla-Model-Y-Analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Psamaniego001/Tesla-Model-Y-Analysis.git
+git clone https://github.com/siqueiranetopedro/Tesla-Model-Y-Analysis.git
 cd Tesla-Model-Y-Analysis
 ```
 
@@ -160,7 +160,7 @@ jupyter notebook Tesla_Model_Y_Analysis.ipynb
 ## 👨‍💻 Author
 
 **Pedro Siqueira**
-- GitHub: [@Psamaniego001](https://github.com/Psamaniego001)
+- GitHub: [@siqueiranetopedro](https://github.com/siqueiranetopedro)
 - Project: Tesla Model Y Electric Range Prediction
 
 ## 📄 License
