@@ -1,17 +1,17 @@
-# 🚗⚡ Tesla Model Y Electric Range Prediction Analysis
+# Tesla Model Y Electric Range Prediction Analysis
 
 ## Overview
 
 This project provides a comprehensive machine learning analysis for predicting Tesla Model Y electric vehicle range using various environmental and vehicle parameters. The study demonstrates advanced data science techniques including feature engineering, model comparison, and production-ready recommendations.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Predict Tesla Model Y electric range using machine learning models
 - Analyze the impact of various factors on electric vehicle performance
 - Compare multiple machine learning algorithms for optimal predictions
 - Provide production-ready model recommendations
 
-## 📊 Key Features Analyzed
+##  Key Features Analyzed
 
 ### Vehicle Parameters
 - Battery Capacity (kWh)
@@ -35,7 +35,7 @@ This project provides a comprehensive machine learning analysis for predicting T
 - Climate Control Usage
 - Regenerative Braking Efficiency
 
-## 🤖 Machine Learning Models Implemented
+##  Machine Learning Models Implemented
 
 1. **Random Forest Regressor** 🥇
 2. **Gradient Boosting Regressor** 🥈
@@ -46,7 +46,7 @@ This project provides a comprehensive machine learning analysis for predicting T
 7. **Support Vector Regression (SVR)**
 8. **Neural Network (MLPRegressor)**
 
-## 🔧 Advanced Features
+##  Advanced Features
 
 ### Feature Engineering
 - **Temperature Categories**: Cold, Cool, Moderate, Hot
@@ -63,14 +63,14 @@ This project provides a comprehensive machine learning analysis for predicting T
 - Cross-validation for model stability
 - Residual analysis and model diagnostics
 
-## 📈 Key Results
+##  Key Results
 
 - **Best Model**: Random Forest Regressor with R² Score of ~0.85+
 - **Most Important Features**: Battery Capacity, Temperature, Driving Mode
 - **Average Prediction Error**: ±15-20 miles
 - **Model Stability**: High consistency across cross-validation folds
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ```python
 # Data Analysis
@@ -86,7 +86,7 @@ matplotlib, seaborn, plotly
 Jupyter Notebook, Python 3.11+
 ```
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Tesla-Model-Y-Analysis/
@@ -96,7 +96,7 @@ Tesla-Model-Y-Analysis/
 └── .gitignore                     # Git ignore file
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.11 or higher
@@ -121,7 +121,7 @@ pip install -r requirements.txt
 jupyter notebook Tesla_Model_Y_Analysis.ipynb
 ```
 
-## 📊 Analysis Highlights
+##  Analysis Highlights
 
 ### Comprehensive EDA Dashboard
 - Electric range distribution analysis
@@ -141,7 +141,7 @@ jupyter notebook Tesla_Model_Y_Analysis.ipynb
 - Residual analysis plots
 - Feature importance charts
 
-## 🎯 Key Insights
+##  Key Insights
 
 1. **Battery Capacity** is the strongest predictor of electric range
 2. **Temperature** significantly impacts vehicle performance
@@ -149,7 +149,7 @@ jupyter notebook Tesla_Model_Y_Analysis.ipynb
 4. **Feature Engineering** improved model performance by 20%
 5. **Random Forest** provides the best balance of accuracy and stability
 
-## 📝 Future Enhancements
+##  Future Enhancements
 
 - [ ] Real-world data integration
 - [ ] Time series analysis for range prediction
@@ -157,16 +157,16 @@ jupyter notebook Tesla_Model_Y_Analysis.ipynb
 - [ ] Interactive dashboard development
 - [ ] API deployment for real-time predictions
 
-## 👨‍💻 Author
+## Author
 
 **Pedro Siqueira**
 - GitHub: [@siqueiranetopedro](https://github.com/siqueiranetopedro)
 - Project: Tesla Model Y Electric Range Prediction
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
 
 ---
 
-⭐ **Star this repository if you found it helpful!** ⭐
+ **Star this repository if you found it helpful!** 
